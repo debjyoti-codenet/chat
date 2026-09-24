@@ -36,3 +36,5 @@ A clean, modern, and simple real-time chat application built with **Python (aioh
    Go to [http://localhost:5000](http://localhost:5000).
 
 > **💡 Multi-User Test**: Open [http://localhost:5000](http://localhost:5000) in two separate browser tabs side-by-side. You will see both users in the Online Members drawer, typing indicators as you type, two-sided messaging, photo sharing, and inline editing!
+# chat
+Created a WhatsApp-style realtime chat with Socket.IO, grouped messages, left/right alignment, sender names, timestamps, read ticks, responsive styling, and corrected message positioning so incoming messages stay left and outgoing messages stay right.
